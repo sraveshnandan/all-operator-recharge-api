@@ -1,5 +1,4 @@
 
-const { bsnldata, jiodata, airteldata, vidata } = require("../data/index");
 const JioPlans = require("../models/jio.plan.model");
 const AirtelPlans = require("../models/airtel.paln.model");
 const BsnlPlans = require("../models/bsnl.plan.model");
