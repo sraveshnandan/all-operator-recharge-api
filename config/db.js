@@ -8,9 +8,9 @@ const ConnectToDatabase = async () => {
     );
   } catch (error) {
     //In case of any error trying to reconnect to the databases
-    setTimeout(() => {
-      ConnectToDatabase();
-    }, 5000);
+    // setTimeout(() => {
+    //   ConnectToDatabase();
+    // }, 5000);
     console.log(error);
   }
 };

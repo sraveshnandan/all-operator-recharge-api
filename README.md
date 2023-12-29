@@ -79,7 +79,7 @@ The Recharge Plan API provides a simple interface to fetch details of recharge p
 ### Request
 ```http
 GET /api/v1/recharge/plan?operator=vi&circle=bihar-jharkhand HTTP/1.1
-Host: 127.0.0.1:4000
+Host: https://recharge-plan-api.onrender.com
 ```
 
 ### Response
