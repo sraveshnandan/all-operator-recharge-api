@@ -1,6 +1,4 @@
-Certainly! Here's an updated README file that includes all states of India in the supported circles and modifies the example response to match the specified format:
 
----
 
 # Recharge Plan API
 

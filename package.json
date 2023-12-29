@@ -1,7 +1,7 @@
 {
   "name": "recharge-plan-api",
   "scripts": {
-    "dev": "node --watch app"
+    "dev": "node  server"
   },
   "version": "1.0.0",
   "main": "index.js",
