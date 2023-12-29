@@ -6,7 +6,7 @@
 The Recharge Plan API provides a simple interface to fetch details of recharge plans based on specified operator and circle parameters.
 
 ## API Endpoint
-- Base URL: `http://127.0.0.1:4000/api/v1/recharge/plan`
+- Base URL: `https://recharge-plan-api.onrender.com/api/v1/recharge/plan`
 - Endpoint: `/api/v1/recharge/plan?operator={operator_name}&circle={circle_name}`
 
 ## Functionality
